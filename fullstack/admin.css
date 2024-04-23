@@ -1,0 +1,26 @@
+body{
+    background-image: url("imagesfs/bungalowbc.jpg");;
+}
+#Namen{
+    background-color: lightgrey;
+    width: 225px;
+    border-radius: 4px;
+    height:210px;
+}
+h3{
+
+margin-bottom: 6px;
+font-family: Bahnschrift;
+}
+h2{
+    margin-bottom: 6px;
+    font-family: Bahnschrift;
+    padding-left: 10px;
+}
+#form{
+    padding-left: 10px;
+}
+#voernaam{
+    margin-top: 10px;
+}
+
